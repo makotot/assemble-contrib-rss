@@ -120,7 +120,7 @@ Released under the MIT license
 
 ***
 
-_This file was generated on 2014-04-28._
+_This file was generated on 2014-05-01._
 
 
 [grunt]: http://gruntjs.com/
